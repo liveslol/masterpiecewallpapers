@@ -7,13 +7,18 @@ This collection only features the wallpapers that I actually use or am currently
 
 If you'd like to contribute a wallpaper, simply submit a pull request, and I'll be sure to take a look at it.
 
-# Index
-### Look and download the wallpapers
-[Everything](src/index/Everything.md)
-[Catppuccin-Latte](src/index/Catppuccin-Latte.md)
-[Catppuccin-Mocha](src/index/Catppuccin-Mocha.md)
-[Blue](src/index/Blue.md)
-[Purple-Pink](src/index/Dark-Purple-Pink.md)
-[Graphite-Mono](src/index/Graphite-Mono.md)
-[Gruvbox-Retro](src/index/Gruvbox-Retro.md)
-[Tokyo-Night](src/index/Tokyo-Night.md)
+## Index
+- [Everything](src/index/Everything.md)
+- [Catppuccin-Latte](src/index/Catppuccin-Latte.md)
+- [Catppuccin-Mocha](src/index/Catppuccin-Mocha.md)
+- [Blue](src/index/Blue.md)
+- [Purple-Pink](src/index/Dark-Purple-Pink.md)
+- [Graphite-Mono](src/index/Graphite-Mono.md)
+- [Gruvbox-Retro](src/index/Gruvbox-Retro.md)
+- [Tokyo-Night](src/index/Tokyo-Night.md)
+
+<br>
+
+### Support? Star!
+
+If you like this, please just consider starring this repo as it help the growth.
