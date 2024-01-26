@@ -23,6 +23,6 @@ If you'd like to contribute a wallpaper, simply submit a pull request, and I'll 
 - [Gruvbox-Retro](src/index/Gruvbox-Retro.md)
 - [Tokyo-Night](src/index/Tokyo-Night.md)
 
-### Support? Star!
+### ❤️ Support? Star!
 
 If you like this, please just consider starring this repo as it help the growth.
