@@ -1,11 +1,11 @@
-<h2 align="center">
+<h3 align="center">
   Masterpiece Wallpapers
-  <h4 align="center">
+  <h5 align="center">
     Curated collection of the best non-work-invasive themed wallpapers.<br>
-  </h4>
-</h2>
+  </h5>
+</h3>
 
-## 📝 What is this?
+### 📝 What is this?
 
 Wallpapers are essential elements of your setup. I've always been looking for new ones, searching on various repos and websites. However, I realised that I only ended up using a little of them, and sometimes none at all because I either didn't like them or they were too distracting.
 
@@ -13,7 +13,7 @@ This collection only features the wallpapers that I actually use or am currently
 
 If you'd like to contribute a wallpaper, simply submit a pull request, and I'll be sure to take a look at it.
 
-## 📖 Index
+### 📖 Index
 - [Everything](src/index/Everything.md)
 - [Catppuccin-Latte](src/index/Catppuccin-Latte.md)
 - [Catppuccin-Mocha](src/index/Catppuccin-Mocha.md)
@@ -25,6 +25,6 @@ If you'd like to contribute a wallpaper, simply submit a pull request, and I'll 
 
 <br>
 
-### Support? Star!
+#### Support? Star!
 
 If you like this, please just consider starring this repo as it help the growth.
