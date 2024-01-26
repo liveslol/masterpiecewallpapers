@@ -1,5 +1,5 @@
 <h3 align="center">
-  Masterpiece Wallpapers
+  ⭐ Masterpiece Wallpapers ⭐
   <h5 align="center">
     Curated collection of the best non-work-invasive themed wallpapers.<br>
   </h5>
@@ -22,8 +22,6 @@ If you'd like to contribute a wallpaper, simply submit a pull request, and I'll 
 - [Graphite-Mono](src/index/Graphite-Mono.md)
 - [Gruvbox-Retro](src/index/Gruvbox-Retro.md)
 - [Tokyo-Night](src/index/Tokyo-Night.md)
-
-<br>
 
 #### Support? Star!
 
