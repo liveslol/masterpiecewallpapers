@@ -1,4 +1,9 @@
-# Masterpiece Wallpapers
+<h2 align="center">
+  Masterpiece Wallpapers
+  <h4 align="center">
+    Curated collection of the best non-work-invasive themed wallpapers.<br>
+  </h4>
+</h2>
 
 ## 📝 What is this?
 
