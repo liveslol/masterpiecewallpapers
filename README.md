@@ -1,17 +1,13 @@
 <h3 align="center">
-  ⭐ Masterpiece Wallpapers ⭐
+  ⭐ Wallpapers ⭐
   <h5 align="center">
-    Curated collection of the best non-work-invasive themed wallpapers.<br>
+    Curated collection of non-work-invasive themed wallpapers.<br>
   </h5>
 </h3>
 
 ### 📝 What is this?
 
-Wallpapers are essential elements of your setup. I've always been looking for new ones, searching on various repos and websites. However, I realised that I only ended up using a little of them, and sometimes none at all because I either didn't like them or they were too distracting.
-
-This collection only features the wallpapers that I actually use or am currently using. While it may seem a little empty, the intention is to create a selection of high-quality wallpapers, rather than a huge repo (I'm trying to say that this isn't a repo for mass wallpaper collections)
-
-If you'd like to contribute a wallpaper, simply submit a pull request, and I'll be sure to take a look at it.
+This collection only features the wallpapers that I'm actually using / have used. The intention is to create a selection, rather than a huge mass wallpaper repo, as most are.
 
 ### 📖 Index
 - [Everything](src/index/Everything.md)
